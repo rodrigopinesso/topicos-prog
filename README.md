@@ -1,1 +1,3 @@
-# topicos-prog
+- Rodrigo Yaedu Pinesso
+- RA: 22014201-2
+- Esoft 7B
